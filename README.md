@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @wtfmateus
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 oi,meu nome é @wtfmateus
+- 👀 eu estou interessado em aprender novas linguagens 
+- 🌱 eu estou aprendendo a programar recentemente a linguagem de javaScrpt e Scratch
+- 📫 meu email de contato é @mateus.silva01@escola.pr.gov.br 
 
-<!---
-wtfmateus/wtfmateus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
